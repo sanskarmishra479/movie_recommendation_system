@@ -5,8 +5,7 @@ This is a movie recommendation system that suggests movies to users based on Con
 
 ## Features
 - Recommendation Algorithm: The system uses collaborative filtering to suggest movies based on Content-Based Algorithm.
-- Dashboard: A user-friendly dashboard where users can view their recommended movies.
-- 
+- Dashboard: A user-friendly dashboard where users can view their recommended movies. 
 ## Installation
 1. Clone the repository:
    ```bash
